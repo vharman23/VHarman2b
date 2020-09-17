@@ -9,7 +9,7 @@ namespace VHarman2b
     {
         static void Main(string[] args)
         {
-            //Ask used to input expected final grade
+            //Ask user to input expected final grade
             Console.WriteLine("Enter an integer value (0-100) for the grade you expect to receive in ISM4300 ...");
 
             try
